@@ -26,6 +26,18 @@ Fantazio is the ultimate fog-of-war tool for tabletop RPG game masters. Reveal y
 - Precision brush tools with Apple Pencil support
 - Multiple maps with auto-save
 
+### Grafo
+**Your Zabbix infrastructure, in your pocket.**
+
+Grafo is a native iOS app for monitoring your Zabbix servers. Critical problems don't wait for business hours, and neither should your monitoring.
+
+- Connect to multiple Zabbix servers with API token authentication
+- View all active problems with color-coded severity levels
+- Browse monitored hosts with live status indicators
+- Interactive historical graphs for any monitored item
+- Search and filter across hosts and problems
+- Privacy-first: direct connection to your servers, no middleman, no data collection
+
 ## Submitting a Support Request
 
 To submit a bug report, feature request, or general question:
@@ -33,7 +45,7 @@ To submit a bug report, feature request, or general question:
 1. Go to the [Issues](https://github.com/jbeker/picosphere_support/issues) tab
 2. Click **New Issue**
 3. Include the following information:
-   - **App name**: Amiko or Fantazio
+   - **App name**: Amiko, Fantazio, or Grafo
    - **Type**: Bug report, feature request, or question
    - **Description**: What happened or what you'd like to see
    - **Steps to reproduce** (for bugs): How can we recreate the issue?
