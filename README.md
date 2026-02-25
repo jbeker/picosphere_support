@@ -38,6 +38,18 @@ Grafo is a native iOS app for monitoring your Zabbix servers. Critical problems 
 - Search and filter across hosts and problems
 - Privacy-first: direct connection to your servers, no middleman, no data collection
 
+### Elekto
+**Find the best card for every purchase.**
+
+Elekto is your personal credit card assistant powered by on-device Apple Intelligence. Get smart recommendations for which card to use based on where you are or what you're buying.
+
+- Smart location-based card recommendations
+- Purchase-based recommendations for online shopping
+- 100% on-device AI using Apple Intelligence Foundation Models
+- Simple card management with custom names and colors
+- Ranked results with AI-generated explanations and confidence scores
+- Privacy-first: no card numbers stored, no cloud sync, no data collection
+
 ## Submitting a Support Request
 
 To submit a bug report, feature request, or general question:
@@ -45,7 +57,7 @@ To submit a bug report, feature request, or general question:
 1. Go to the [Issues](https://github.com/jbeker/picosphere_support/issues) tab
 2. Click **New Issue**
 3. Include the following information:
-   - **App name**: Amiko, Fantazio, or Grafo
+   - **App name**: Amiko, Fantazio, Grafo, or Elekto
    - **Type**: Bug report, feature request, or question
    - **Description**: What happened or what you'd like to see
    - **Steps to reproduce** (for bugs): How can we recreate the issue?
